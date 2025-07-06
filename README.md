@@ -10,9 +10,8 @@
 ### 🚀 About Me
 
 - 🎓 I'm currently working as a **Teaching Assistant in Mathematics** while building skills in **Data Science & Machine Learning**.
-- 💡 Passionate about bridging the gap between **theory & real-world data**.
-- 🌍 I work with **multi-language tech stacks** and apply them in solving real-world problems.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com)
+- 💡 Passionate about combining **mathematical rigor** with **real-world datasets**.
+- 📘 I believe in learning by building — each project is a stepping stone!
 
 ---
 
@@ -35,33 +34,20 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dungvnu123&show_icons=true&theme=radical" alt="dungvnu123 github stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dungvnu123&theme=radical" alt="dungvnu123 streak stats"/>
-</p>
+- 📊 Data Analysis with Python
+- 🧠 Machine Learning Algorithms
+- 📈 Real-world data visualization
 
 ---
 
-### 🌱 Currently Learning
+### 📌 Fun Fact
 
-- Deep Learning (PyTorch, TensorFlow)
-- Advanced Machine Learning algorithms
-- Big Data pipelines
-
----
-
-### ☕ Fun Fact
-
-> *Mathematics is the language of the universe — and I code its dialects.*
+> *“Math explains the world. Code makes it work.”*
 
 ---
 
